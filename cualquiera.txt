@@ -1,2 +1,7 @@
 pablo carmona
 
+¿QUE ES GIT?
+ es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo. Estos repositorios locales  permiten trabajar sin conexión o de forma remota con facilidad.
+¿PARA QUE SIRVE Y COMO PUEDE AYUDAR EN PROGRAMACION?
+Sirve para colaborar, compartir y mantener el codigo de manera eficiente sus funciones mas importatntes son: # control de funciones  #ramas  #colaboracion  # colaboracion y respaldo y seguridad
+Al programador es fundamental ya que facilita la gestion y colaboracion en proyectos de desarrollo de software, permitiendo trabajar de manera mas eficiente y segura.
