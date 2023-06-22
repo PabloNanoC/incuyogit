@@ -1,0 +1,12 @@
+
+¿QUE ES JAVA?
+
+Java es un lenguaje de programación orientado a objetos y una plataforma de software ampliamente utilizado que se ejecuta en miles de millones de dispositivos, que incluyen computadoras portátiles, dispositivos móviles, consolas de juegos, dispositivos médicos y muchos otros. Las reglas y la sintaxis de Java se basan en los lenguajes C y C++.
+
+¿QUE SE PUEDE HACER CON JAVA?
+
+Un programador de Java puede crear aplicaciones de escritorio, aplicaciones web, aplicaciones móviles, juegos y software de automatización empresarial, entre otros.
+
+Además, Java también es utilizado para crear programas de inteligencia artificial, análisis de datos y sistemas de gestión de bases de datos. También se utiliza para el desarrollo de aplicaciones en la nube, lo que permite a los usuarios acceder a servicios en línea de manera remota.
+
+En resumen, un programador de Java tiene la capacidad de crear soluciones de software innovadoras y personalizadas para una amplia variedad de necesidades y sectores.
